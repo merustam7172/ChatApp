@@ -39,7 +39,7 @@ The backend leverages Firebase for several powerful features:
 **Message Reactions**: React to messages with emojis (planned feature).
 
 
-**  📸 Media Management**
+📸 **Media Management**
 **Store Media**: Save media shared with friends and access it anytime.
 **Media Gallery**: View all shared media files in a dedicated gallery section.
 
